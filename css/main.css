@@ -302,7 +302,7 @@ textarea {
 /*=========================================================*/
 
 body {
-    background-color: #45CBB9;
+    background-color: #333252;
 }
 
 .container {
@@ -311,7 +311,7 @@ body {
 }
 
 .nav {
-    background-color: #fc033d;
+    background-color: #45CBB9;
     vertical-align: middle;
     height: 100px;
     width: 100%;
@@ -404,7 +404,7 @@ font-family: 'Titan One', cursive;*/
 .social-link-circle {
   height: 70px;
   width: 70px;
-  background-color: #00578a;
+  background-color: #333252;
   border-radius: 50%;
   display: inline-block;
   margin-left: 0px;
